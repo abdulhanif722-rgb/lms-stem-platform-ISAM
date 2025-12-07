@@ -32,7 +32,7 @@ Dockerized for production.
 - Optional: use Docker Compose in /infra for local full-stack
 
 ## Notes
-- Add `ADMIN_EMAILS` in .env for super-admins
+- `abdulhanif722@gmail.com` in .env for super-admins
 - Seed script: backend/src/seed.js
 
 ## License
