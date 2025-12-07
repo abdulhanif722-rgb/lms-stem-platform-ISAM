@@ -1,5 +1,63 @@
 # lms-stem-platform-ISAM
-FOR onsite
+Elevator description
+Scalable Learning Management System for STEM education used by schools — courses, assessments, analytics, and role-based access.
+
+Tech stack
+Frontend: React, React Router, Tailwind CSS
+Backend: Node.js, Express
+DB: MongoDB (Mongoose)
+Auth: JWT + bcrypt
+Storage: Cloudinary (media) or S3
+Extras: Webhooks, Redis (caching), Docker
+
+Priority feature list
+
+Auth: student/teacher/admin (JWT)
+
+Course and module CRUD, video embedding
+
+Assessment engine: timed quizzes, auto-grading
+
+Progress tracking & reports per student/school
+
+Certificate generation (PDF)
+
+School-wise multi-tenancy (isolation)
+
+Admin analytics dashboard (charts)
+
+Offline support (service worker + IndexedDB)
+
+Deployment with DockerElevator description
+Scalable Learning Management System for STEM education used by schools — courses, assessments, analytics, and role-based access.
+
+Tech stack
+Frontend: React, React Router, Tailwind CSS
+Backend: Node.js, Express
+DB: MongoDB (Mongoose)
+Auth: JWT + bcrypt
+Storage: Cloudinary (media) or S3
+Extras: Webhooks, Redis (caching), Docker
+
+Priority feature list
+
+Auth: student/teacher/admin (JWT)
+
+Course and module CRUD, video embedding
+
+Assessment engine: timed quizzes, auto-grading
+
+Progress tracking & reports per student/school
+
+Certificate generation (PDF)
+
+School-wise multi-tenancy (isolation)
+
+Admin analytics dashboard (charts)
+
+Offline support (service worker + IndexedDB)
+
+Deployment with Docker
 # LMS STEM Platform — ISAM (Education SaaS)
 
 A full-stack learning management system built for STEM education across multiple schools.
