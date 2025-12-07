@@ -1,5 +1,4 @@
 # lms-stem-platform-ISAM
-Elevator description
 Scalable Learning Management System for STEM education used by schools — courses, assessments, analytics, and role-based access.
 
 Tech stack
@@ -89,6 +88,31 @@ Dockerized for production.
 - Backend: Render / Railway / Docker on VPS
 - DB: MongoDB Atlas
 - Optional: use Docker Compose in /infra for local full-stack
+- Deployment suggestions
+
+Frontend → Vercel (React)
+
+Backend → Railway or Render (Docker)
+
+DB → MongoDB Atlas
+
+For demos: create sample school with seeded data + demo login credentials in README
+
+GitHub topics / tags
+react nodejs mongodb lms education edtech docker jwt tailwind
+
+Sample commit messages
+
+feat(auth): add JWT auth and user model
+
+feat(course): implement course CRUD API
+
+fix(auth): handle token refresh
+
+chore(ci): add dockerfile & docker-compose
+
+Resume bullet
+Built and deployed a full-stack LMS for 18+ schools with role-based auth, auto-graded assessments, real-time progress analytics, and PDF certificate generation (React, Node.js, MongoDB).
 
 ## Notes
 - `abdulhanif722@gmail.com` in .env for super-admins
