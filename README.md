@@ -81,7 +81,8 @@ Dockerized for production.
    cd frontend
    npm install
    npm run dev
-4. Visit https://quantum-leap-stem-2cac4d4f.base44.app
+   FOR DEMO
+5. Visit https://quantum-leap-stem-2cac4d4f.base44.app
 
 ## Deploy
 - Frontend: Vercel or Netlify
